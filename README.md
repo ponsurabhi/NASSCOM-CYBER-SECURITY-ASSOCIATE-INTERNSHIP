@@ -1,0 +1,2 @@
+LEAST PRIVILEGE ACCESS WITH HASHICORP BOUNDARY DEMO VIDEO LINK: 
+https://drive.google.com/file/d/1ZGgWAyYLYWhj6hWRcS5dksAWQQv05HK1/view?usp=sharing
