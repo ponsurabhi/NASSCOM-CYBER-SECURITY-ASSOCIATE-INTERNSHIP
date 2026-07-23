@@ -1,2 +1,4 @@
 LEAST PRIVILEGE ACCESS WITH HASHICORP BOUNDARY DEMO VIDEO LINK: 
 https://drive.google.com/file/d/1ZGgWAyYLYWhj6hWRcS5dksAWQQv05HK1/view?usp=sharing
+CENTRALIZED IDENTITY PROVIDER WITH KEYCLOAK DEMO VIDEO LINK:
+https://drive.google.com/drive/u/0/folders/1H2lP4yHylhjmd7k7WLJ1KUy1MVb4esWo
